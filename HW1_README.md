@@ -1,0 +1,5 @@
+Design a function that converts military time hours in the set {1,24} ∈ ℕ into standard time. 
+
+This homework question assesses the ability of students to apply modular arithmetic in real-life settings and practice using Python’s function tool. This problem does not seem like a modular arithmetic problem on the surface, but when defining their function, students will need to utilize the skill to successfully design a function that converts military hours into standard time hours. Students may struggle with building the function itself. It seemed to be a skill that we all need to work on and did not feel confident with. In defining the program,s students may struggle with deciding between using floor division, integer and the correct remainder operands. In overcoming these difficulties, students will shore up their understanding of functions and the use of the aforementioned operands.
+
+Note: This program is crude, but as we gain more competencies and skills, we will be able to improve this program. 
